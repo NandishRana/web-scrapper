@@ -17,8 +17,8 @@ This script allows users to scrape data in the form of list from websites. The e
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/YOUR_USERNAME/india-gov-scheme-scraper.git
-    cd india-gov-scheme-scraper
+    git clone https://github.com/NandishRana/web-scrapper.git
+    cd web-scrapper
     ```
 
 2. **Install the required packages:**
