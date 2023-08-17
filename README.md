@@ -1,7 +1,10 @@
 
 ---
 
-# 📜 India Government Scheme Scraper
+# 📜 Web Scraper
+
+<img src="https://i.imgur.com/osWIuod.jpeg" alt="Scrappy Logo" width="300"/>
+
 
 ![Python Badge](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white) ![Web Scraping Badge](https://img.shields.io/badge/Web%20Scraping-%23FF6F61.svg?style=for-the-badge)
 
